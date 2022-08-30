@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gonzalezgbr
+- 👋 Hi, I’m Gaby (@gonzalezgbr)
 - 🐍 I’m a functional analyst and a Python programmer
 - 👀 I’m interested in problem solving, useful apps and the realm of graph, semantics and nlp processing
 - 🌱 I’m currently learning nlp
