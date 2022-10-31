@@ -1,3 +1,5 @@
+## 🧩 About me
+
 - Hello! I’m Gaby, a *Python developer* 🐍 and a *functional analyst* 📋. 
 
 - I'm currently working as a *freelance developer* building **Python automation scripts and data processing apps** and as a *system's functional analyst* in government related entities.
