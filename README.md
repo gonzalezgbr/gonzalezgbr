@@ -1,5 +1,3 @@
-## 🧩 About me
-
 - Hello! I’m Gaby, a *Python developer* 🐍 and a *functional analyst* 📋. 
 
 - I'm currently working as a *freelance developer* building **Python automation scripts and data processing apps** and as a *system's functional analyst* in government related entities.
@@ -12,7 +10,7 @@
 
 ## 📧 Contact me
 
-You can reach me by DM or find me on [linkedin](https://www.linkedin.com/in/gonzalezgbr/).
+You can find me on [linkedin](https://www.linkedin.com/in/gonzalezgbr/).
 
 <!---
 gonzalezgbr/gonzalezgbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
