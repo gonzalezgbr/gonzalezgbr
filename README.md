@@ -1,8 +1,8 @@
 ## 🧩 About me
 
-- Hello! I’m Gaby, a *Python developer* 🐍 and a *functional analyst* 📋. 
+- Hello! I’m Gaby 👩‍💻, a software developer based in Argentina.
 
-- I'm currently working as a *freelance developer* building **Python automation scripts and data processing apps** and as a *system's functional analyst* in government related entities.
+- I'm currently working at a data company as a *python developer* building **web scrapers** of all shapes and sizes.
 
 - I have a *Bachelor's Degree in Information Systems*. 
 
