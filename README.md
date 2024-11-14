@@ -12,7 +12,7 @@
 
 ## 📧 Contact me
 
-You can find me on [linkedin](https://www.linkedin.com/in/gonzalezgbr/).
+You can find me on [linkedin](https://www.linkedin.com/in/gonzalezgbr/)
 
 <!---
 gonzalezgbr/gonzalezgbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
